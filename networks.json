@@ -1,0 +1,8 @@
+{
+  "base-testnet": {
+    "Factory": {
+      "address": "0x0EC483dE4bef13293E9dBD35CA9766973c61Ac52",
+      "startBlock": 4205823
+    }
+  }
+}
